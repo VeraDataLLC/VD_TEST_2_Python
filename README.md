@@ -7,7 +7,7 @@ You will need Python 3.9+ and Git installed.
 3. Clone the repository. To do this, paste the following into the panel:
     `https://github.com/VeraDataLLC/VD_TEST_2_Python.git`
 4. In the File Explorer, select the destination directory for the repository.
-5. VSCode will suggest opening the cloned directory in a new window
+5. VSCode will suggest opening the cloned directory in a new window.
 
 ### Step 2: Creating a virtual environment and installing dependencies
 1. In VSCode, open the terminal via 'View' → 'Terminal'.
@@ -27,7 +27,7 @@ You will need Python 3.9+ and Git installed.
    ```bash
    .\venv\Scripts\pytest.exe
    ```
-  If all tests pass successfully, it means you have correctly implemented the tasks.
+  If all tests pass successfully, it means you have correctly implemented the tasks.\
   If the tests fail, review the errors and refine your solutions.
 
 ### Step 4: Send us your results (any progress you've made)
@@ -35,4 +35,4 @@ You will need Python 3.9+ and Git installed.
     ```bash
     .\venv\Scripts\pytest.exe --html=vd_test_2_python_report.html
     ```
-2. Send the screenshot and the "tasks.py" file to our email.
+2. Send the screenshot and the "tasks.py" file to okachurovska@veradata.com email.
